@@ -1,7 +1,6 @@
 # Vladimir Shefer
 ## Senior Java (Kotlin) Developer @ GridDynamics.
 
-- Location: Russia, Saint Petersburg.
 - Telegram: @vladimirshefer
 
 ## Skills

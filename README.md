@@ -1,5 +1,5 @@
 # Vladimir Shefer
-## Senior Java (Kotlin) Developer @ GridDynamics.
+## Senior Java (Kotlin) Developer @ JetBrains, Teamcity.
 
 - Telegram: @vladimirshefer
 
